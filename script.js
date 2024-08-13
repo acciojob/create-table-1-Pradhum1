@@ -6,8 +6,8 @@ function insert_Row() {
 
 	function addRow(){
 		let row = table.insertRow[0];
-		row.insertCell[0].innerHTML = NewCell1;
-		row.insertCell[1].innerHTML = NewCell2;
+		row.insertCell[0].innerHTML = New Cell1;
+		row.insertCell[1].innerHTML = New Cell2;
 	}
 
 	
